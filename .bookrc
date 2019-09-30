@@ -1,0 +1,22 @@
+{
+  "name": "The Procurator of Judea",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-procurator-of-judea/master/assets",
+  "book_id": 1176,
+  "book_url": "https://bubblin.io/book/the-procurator-of-judea-by-anatole-france"
+}
